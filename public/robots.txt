@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dramariajosemaldonado.com.br/sitemap.xml
